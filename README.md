@@ -7,8 +7,9 @@
 ### ✅ Question 1:
 
 
-📎 [Screenshot 1]("C:\Users\Minfy\Desktop\Easy(1).png")  
-📎 [Screenshot 2]("C:\Users\Minfy\Desktop\easy(1.2).png")  
+📎 [Screenshot 1](https://github.com/mayurminfy1/Db-assigment/blob/main/Easy/Easy(1).png?raw=true)
+📎 [Screenshot 2](https://github.com/mayurminfy1/Db-assigment/blob/main/Easy/easy(1.2).png?raw=true)
+
 📎 [Screenshot 3](link3)  
 📎 [Screenshot 4](link4)
 
